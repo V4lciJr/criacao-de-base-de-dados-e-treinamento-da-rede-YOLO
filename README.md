@@ -1,7 +1,9 @@
 
-# 🔍 YOLOv3 Custom Training com Dataset COCO + Novas Classes
+# 🔍 Desafio DIO - Criação de base e treinamento da rede YOLO
 
 Este projeto realiza o **treinamento de um modelo YOLOv3** usando imagens do dataset [COCO](https://cocodataset.org/#home), com **transferência de aprendizado** a partir dos pesos pré-treinados. Novas classes, como `capacete` e `máscara`, são adicionadas ao conjunto original.
+
+A proposta desse projeto é um desafio do Bootcamp BairesDev - Machine Learning Training da [DIO](https://www.dio.me/).
 
 ---
 
@@ -126,4 +128,4 @@ Resultado será salvo como `predictions.jpg`.
 
 **Valci Júnior**  
 Cientista de Dados | Deep Learning Enthusiast  
-[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/)
+[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/valci-junior/) · [GitHub]([https://github.com/](https://github.com/V4lciJr)
