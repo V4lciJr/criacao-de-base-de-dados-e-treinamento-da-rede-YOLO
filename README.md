@@ -128,4 +128,4 @@ Resultado será salvo como `predictions.jpg`.
 
 **Valci Júnior**  
 Cientista de Dados | Deep Learning Enthusiast  
-[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/valci-junior/) · [GitHub]([https://github.com/](https://github.com/V4lciJr)
+[LinkedIn](https://www.linkedin.com/in/valci-junior/) · [GitHub](https://github.com/V4lciJr)
